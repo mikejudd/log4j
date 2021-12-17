@@ -1,0 +1,107 @@
+APC
+https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01
+https://community.exchange.se.com/t5/APC-UPS-Data-Center-Backup/Log4-versions-used-in-Powerchute-vulnerable/td-p/379525
+
+ArcGIS
+https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/
+
+FileCloud
+https://www.getfilecloud.com/supportdocs/display/cloud/Advisory+2021-12-2+Impact+of+Apache+Log4j2+Vulnerability+on+FileCloud+Customers
+
+Ubiquiti
+https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
+
+ManageEngine
+https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus
+
+Kaseya
+https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment
+
+ConnectWise
+https://www.connectwise.com/company/trust/advisories
+
+Keeper Security
+https://docs.keeper.io/sso-connect-guide/update-instructions
+
+PaperCut
+https://www.papercut.com/support/known-issues/#ng
+
+Astria (DocStar) – CC
+https://www.docstar.com/
+
+Talend – CC
+https://www.talend.com/security/incident-response/
+
+Dell
+https://www.dell.com/support/kbdoc/en-us/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability
+https://www.dell.com/support/kbdoc/en-us/000194416/additional-information-for-apache-log4j-remote-code-execution-vulnerability-cve-2021-44228
+https://www.dell.com/support/kbdoc/en-us/000194372/dsn-2021-007-dell-response-to-apache-log4j-remote-code-execution-vulnerability
+
+FedEx
+https://www.fedex.com/en-us/service-alerts.html#weatherassess  “Contact Customer Technology representative”
+
+iManage – Requires login
+https://fs.imanage.com/adfs/ls?RelayState=https%3A%2F%2Fhelp.imanage.com%2Fhc%2Fen-us%2Farticles%2F4412696236699-ADVISORY-Security-vulnerability-CVE-2021-44228-in-third-party-component-Apache-Log4j2&brand_id=328408&SAMLRequest=fZFLb8IwEITv%2FArL9zycEB4WCYpAlZBoVUHbQ2%2FG2ZaosZ16bfr49Q0pSPRA%0AL3vwzmhmP8%2Fmn6ohB7BYG51TFsZ0XgxmKFTT8tK7vd7Auwd0pNNp5P0ip95q%0AbgTWyLVQgNxJvi1v1zwJY95a44w0Db2w%2FO8QiGBdV4CS1TKnR4MNxmnKKjYc%0ABRmMhwFjIIOp2KXdyHZxlonpOJ10ekQPK41OaJfTJE5YwJKAjR5YylPG2eSZ%0AkqfzdV0WJeU5bGE0egV2C%2FZQS3jcrHO6d65FHkW1Elq8Avq2NdaF36ArwLdQ%0AGhUJKQExOpakRQ%2BK9yVscd00iy51J7p3HYfV8t40tfwiZdOYj4UF4SCnznqg%0A5MZYJdx1cixk%2FUtdBS%2B9lIMSdVNWle0K0qj4Tf37jcXgBw%3D%3D%0A
+
+VMware 
+https://kb.vmware.com/s/article/87081?lang=en_US
+
+Prizm
+https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592
+Only the PrizmDoc Viewer (JobViewer 1) in version 13.2 is affected by this vulnerability at JobRouter®, this uses Log4j in version 2.3. According to the manufacturer Accusoft, all versions from 13.5 are secured by the Java version used. This means that the recommended procedure here is to update to the latest version (13.18). We are currently working on providing you with this delivery as soon as possible. Until then, we recommend that you switch off the PrizmDoc Viewer and temporarily switch to the browser display or JobViewer 2, or follow the measures suggested by the BSI
+
+Arduino
+https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228
+
+Code42
+https://support.code42.com/Terms_and_conditions/Code42_customer_support_resources/Code42_response_to_industry_security_incidents
+
+thinkorswim – Trading software
+https://www.reddit.com/r/wallstreetbetsOGs/comments/rdzdmd/tdas_thinkorswim_tos_has_potential_vulnerability/?utm_source=BD&utm_medium=Search&utm_name=Bing&utm_content=PSR1
+
+CrushFTP
+https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592
+CrushFTP is not affected by cve-2021-44228 (Log4Shell). The only Log4j we had in our CrushFTP products was v 1.2.17...which is before the vulnerable code was added to Log4j. So this vulnerability has no effect on CrushFTP. Additionally don't use log4j for logging either, its just part of CrushFTP for other libraries that need it in place. So this issue is doubly irrelevant for CrushFTP.
+
+Minecraft
+https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition
+
+Tableau / SalesForce
+https://www.tableau.com/support/releases/server/2021.2.5
+https://status.salesforce.com/generalmessages/826
+https://help.salesforce.com/s/articleView?id=000363736&type=1
+
+Bentley
+https://communities.bentley.com/products/w/products__wiki/57356/bentley-security-update-december-2021
+
+Screaming Frog SEO
+https://www.screamingfrog.co.uk/seo-spider-16/?fbclid=IwAR3r9WqrBqDXx49X3lOB2JmrXmir7WALsom5yhasfHCXhMKLBX389Aw62fQ#16.4
+
+Mitel
+https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010
+
+USPS PostalOne
+
+Power Automate Desktop – Microsoft
+
+TastyWorks – Trading software
+
+CrashPlan
+
+IBM SPD70 (Software Development Platform)
+
+AAOS
+
+JTS
+
+PDFStudio
+
+Moneda Alterna
+
+Genesis
+
+Automation Direct Solo Configurator
+
+Mulesoft Anypoint Studio / Eclipse
+
