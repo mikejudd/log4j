@@ -1,4 +1,4 @@
-## Kudos to Matt Dewa4t in MSPGeek Slack
+## Kudos to Matt Dewatt in MSPGeek Slack
 
 $drives = Get-PSDrive -PSProvider FileSystem |Where-Object { $_.free -gt 0 } | Select-Object -ExpandProperty root
 $detected = @()
